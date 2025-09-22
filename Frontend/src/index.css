@@ -1,0 +1,8 @@
+
+
+@import "tailwindcss";
+
+
+body {
+  @apply bg-gradient-to-b from-pink-100 to-yellow-100 min-h-screen;
+}
